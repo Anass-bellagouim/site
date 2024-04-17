@@ -1,0 +1,19 @@
+h2{
+    font-size: 18px;
+    margin: 0px;
+    font-family: sans-serif;
+    padding: 8px 0px;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+article{
+    max-width: 500px;
+}
+main{
+    margin: auto;
+    max-width: 500px;
+}
